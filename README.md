@@ -2,11 +2,12 @@
 Auto Swap Taiko 
 
 Cara Penggunaan di Visual Studio Code:
+
 Siapkan VS Code dan Python: Pastikan Anda sudah mengikuti langkah-langkah instalasi di penjelasan sebelumnya.
 Install web3.py: Pastikan library web3.py terinstal dengan perintah:
-bash
-Copy code
+
 pip install web3
+
 Masukkan Kode: Salin kode di atas ke dalam file Python (misalnya tx_bot.py).
 Jalankan Program: Buka terminal di VS Code, navigasikan ke direktori tempat file Python Anda, dan jalankan:
 bash
